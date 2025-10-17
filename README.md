@@ -6,7 +6,7 @@ I'm Frank Joseph, a software engineer and a technical writer based in Lagos, Nig
 -->
 
 - 🔭 I’m currently working on becoming a world class software engineer
-- 🌱 I’m currently working with Python, Java, JavaScript, Spring boot, Django, React, NodeJs, UML, and EER Diagram
+- 🌱 I’m currently working with JavaScript (Node.js/Express), C# (.Net)
 - 👯 I’m looking to collaborate on meaningful projects and contribute to open source project
 <!--
 - 🤔 I’m looking for help with 
